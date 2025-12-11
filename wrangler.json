@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-farcano",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f8dd41e0-ab14-40a8-ab14-ab1d7bbf8e15",
+			"database_name": "farcano"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
